@@ -28,8 +28,7 @@
 <img src="./banner.png" alt="Rajiv Mishra | Sakssmama" width="100%" />
 
 ### 📊 GitHub Stats
-![Rajiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajivMishra1414&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
-
+readme-stats.vercel.app/api?username=Sakssmama01&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
 
 ---
 
