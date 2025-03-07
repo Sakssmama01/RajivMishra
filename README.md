@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rajiv Mishra</h1>
-<h3 align="center">Future Android Developer 🚀 | Kotlin Learner | Passionate about Tech 💪</h3>
+<h3 align="center">Aspiring  Android Developer 🚀 | Kotlin Learner | Passionate about Tech 💪</h3>
 <img src="./banner.png" alt="Rajiv Mishra | Sakssmama" width="100%" />
 
 
