@@ -1,3 +1,5 @@
+![Rajiv Mishra | Sakssmama](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/BANNER_IMAGE_NAME.png)
+
 <h1 align="center">Hi 👋, I'm Rajiv Mishra</h1>
 <h3 align="center">Future Android Developer 🚀 | Kotlin Learner | Passionate about Tech 💪</h3>
 
