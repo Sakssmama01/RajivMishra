@@ -1,4 +1,4 @@
-![Rajiv Mishra | Sakssmama](banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Rajiv Mishra</h1>
 <h3 align="center">Future Android Developer 🚀 | Kotlin Learner | Passionate about Tech 💪</h3>
