@@ -5,7 +5,6 @@
 <img src="./banner.png" alt="Rajiv Mishra | Sakssmama" width="100%" />
 
 
-<img align="center" src="Your_Banner_Link" alt="Rajiv Mishra Banner"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajivMishra&label=Profile%20Views&color=0e75b6&style=flat" alt="Rajiv Mishra" /> </p>
 
